@@ -34,6 +34,7 @@ O aplicativo utiliza a permissão INTERNET para realizar requisições à API p�
 
 ```xml
 <uses-permission android:name="android.permission.INTERNET" />
+````
 
 ## Como executar o projeto
 1. Clonar este repositório.
