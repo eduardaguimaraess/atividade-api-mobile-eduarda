@@ -44,7 +44,11 @@ O aplicativo utiliza a permissão INTERNET para realizar requisições à API p�
 5. Informar um dado válido e realizar a consulta.
 
 ## Prints do aplicativo
-Adicione aqui prints da tela inicial e da tela com resultado.
+<img width="1910" height="1033" alt="image" src="https://github.com/user-attachments/assets/95068b49-c200-4f81-a134-d5a031a69835" />
+<img width="1914" height="1032" alt="image" src="https://github.com/user-attachments/assets/d403ab05-4746-4905-ad7f-977944d77dbe" />
+<img width="1909" height="1030" alt="image" src="https://github.com/user-attachments/assets/a367d231-9fad-4479-9b8c-83a7e87b047a" />
+<img width="1914" height="1030" alt="image" src="https://github.com/user-attachments/assets/3da00641-2160-4c7b-9418-f3a528bb92b1" />
+
 
 ## Autor
 Eduarda Guimarães Monteiro (2577579)
