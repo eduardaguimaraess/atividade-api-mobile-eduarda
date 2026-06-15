@@ -34,3 +34,16 @@ O aplicativo utiliza a permissão INTERNET para realizar requisições à API p�
 
 ```xml
 <uses-permission android:name="android.permission.INTERNET" />
+
+## Como executar o projeto
+1. Clonar este repositório.
+2. Abrir o projeto no Android Studio.
+3. Aguardar a sincronização do Gradle.
+4. Executar o app em um emulador ou dispositivo físico.
+5. Informar um dado válido e realizar a consulta.
+
+## Prints do aplicativo
+Adicione aqui prints da tela inicial e da tela com resultado.
+
+## Autor
+Eduarda Guimarães Monteiro (2577579)
